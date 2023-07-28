@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 
 <!-- 🔭 I’m currently working on distributed database -->
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHub用户名)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=iceTTTT)]()
+
 🌱 I’m currently learning 
 + CS143
 + CS61C
