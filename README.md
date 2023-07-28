@@ -12,7 +12,19 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceTTTT&layout=compact)](https://github.com/iceTTTT/github-readme-stats)
 
-🌱 Currently working on CS143
+### Course projects:
+
+🌱 Working currently:
+
++ CS143
+
+🔭 Finished before:
+
++ MIT6.S081
++ CS144
++ CMU15445
++ MIT6.824
+  
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
