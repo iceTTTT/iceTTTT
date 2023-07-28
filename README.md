@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🌱 Working currently:
 
-+ CS143/cool compiler
++ CS143/COOL compiler
 
 🔭 Finished before:
 
