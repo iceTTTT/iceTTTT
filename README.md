@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 🌱 Working currently:
 
-+ CS143/COOL compiler
-+ CMU15445_23
++ CMU15445_22
 
 🔭 Finished before:
 
