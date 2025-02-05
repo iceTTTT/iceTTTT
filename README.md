@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 
 ### Course projects:
 
-🌱 Working currently:
+🌱 Study currently:
 
-+ CMU15445_23/24
++ linux
 
 🔭 Finished before:
 
 + MIT6.S081
 + CS144
-+ CMU15445_21
++ CMU15445_21/23
 + MIT6.824
   
 <!--
