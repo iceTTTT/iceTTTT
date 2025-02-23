@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 🌱 Study currently:
 
-+ linux
++ lsmt
 
 🔭 Finished before:
 
