@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 + lsmt
 
-🔭 Finished before:
+🔭 learnt:
 
 + MIT6.S081
 + CS144
