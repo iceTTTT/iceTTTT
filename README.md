@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceTTTT&layout=compact)](https://github.com/iceTTTT/github-readme-stats)
 
 
-🌱 database noob
+🌱 database developer
   
 <!--
 - 👯 I’m looking to collaborate on ...
